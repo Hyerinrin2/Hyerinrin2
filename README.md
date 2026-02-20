@@ -31,9 +31,7 @@ I'm writing my Star 🌟
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyerinrin2&theme=radical&hide_border=true)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hyerinrin2&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hyerinrin2&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyerinrin2&langs_count=10&layout=compact&theme=dark)](https://github.com/Hyrinrin2/Hyerinrin2)﻿
 
 
 
