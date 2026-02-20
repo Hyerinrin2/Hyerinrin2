@@ -22,10 +22,11 @@ I'm writing my Star 🌟
 ### DBMS
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
+### BOJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yun0101)](https://solved.ac/yun0101)
 
-![Hyerinrin2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyerinrin2&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyerinrin2&show_icons=true&theme=radical)
 
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
