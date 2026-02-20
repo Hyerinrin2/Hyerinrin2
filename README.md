@@ -23,7 +23,7 @@ I'm writing my Star 🌟
 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={yun0101})](https://solved.ac/{yun0101})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yun0101)](https://solved.ac/yun0101)
 
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
