@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#B3C5D3&height=200&text=HyeRin's%25Hub&fontColor=#FFFFFF&fontSize=50&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=B3C5D3&height=200&text=HyeRin's%20Hub&fontColor=FFFFFF&fontSize=50&section=header)
 
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
