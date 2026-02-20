@@ -34,7 +34,9 @@ I'm writing my Star 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyerinrin2&langs_count=10&theme=dark)](https://github.com/Hyrinrin2/Hyerinrin2)﻿
 
 
-
+### Contact
+- 이메일 : [1234youn2@gmail.com](mailto:1234youn2@gmail.com)
+  
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
