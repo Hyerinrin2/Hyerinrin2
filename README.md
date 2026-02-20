@@ -27,9 +27,13 @@ I'm writing my Star 🌟
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yun0101)](https://solved.ac/yun0101)
 
 ### Status
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyerinrin2&theme=radical)
+## 📊 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Hyerinrin2&theme=radical&column=4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyerinrin2&theme=radical&hide_border=true)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hyerinrin2&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hyerinrin2&layout=compact&theme=radical&hide_border=true)
 
 
 
