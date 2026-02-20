@@ -27,8 +27,12 @@ I'm writing my Star 🌟
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yun0101)](https://solved.ac/yun0101)
 
 ### Status
-![trophy](https://github-profile-trophy.vercel.app/?username=Hyerinrin2&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyerinrin2&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hyerinrin2&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Hyerinrin2&theme=radical&column=4)
+
+
+
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
