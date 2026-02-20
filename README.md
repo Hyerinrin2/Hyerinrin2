@@ -25,6 +25,8 @@ I'm writing my Star 🌟
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yun0101)](https://solved.ac/yun0101)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyerinrin2)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Hyerinrin2/Hyerinrin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
